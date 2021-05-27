@@ -16,7 +16,7 @@ Using UnrealCV & ESIM, we will generate **Camera Poses, Frames, GT Depth Maps, G
 ##### Clone with Git
 You should register your GitHub account for **Epic Games** before clonning.
 ```
-$ git clone https://github.com/EpicGames/UnrealEngine
+$ git clone https://github.com/EpicGames/UnrealEngine.git --branch 4.16
 $ cd UnrealEngine
 $ ls -la
 ```
